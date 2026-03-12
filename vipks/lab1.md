@@ -12,3 +12,4 @@
 | Определите сетевой адаптер  | Intel(R) 82579LM Gigabit Network Connection  |
 | Видеоадаптер  | Intel(R) HD Graphics  |
 | Возраст пароля пользователя «st» | 1831 Дни|
+ 
