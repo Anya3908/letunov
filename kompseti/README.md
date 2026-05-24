@@ -2,7 +2,7 @@
 
 ## [Коспекты (пусто)](konspekt.md)
 ---
-## Доклад(doclad/doclad_Sysoeva.pdf)
+## [Доклад](doclad/doclad_Sysoeva.pdf)
 ---
 ## Лабораторные работы
 ### [Лаба 1](labs/lab1.md)
